@@ -75,8 +75,8 @@ Step 5 NOTE:
    - ![](/images/5_cli_cloning.png)
 
 6. Create/Copy/Edit project files and directories
-    - make chances to the project directory contents
-      - such as created a new file `example.txt`, or copying files from a project elsewhere on disk
+    - make changes to the project directory contents
+      - such as creating a new file `example.txt`, or copying files from a project elsewhere on disk
    - ![](/images/6_new_file_added.png)
 
 7. Use `git status` to check status of your project
