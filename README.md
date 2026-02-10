@@ -2,6 +2,10 @@
 
 Follow these steps to learn the lifecycle of creating a GitHub repo, cloning it to your local computer, making changes to the project, and synchronising them back up to GitHub.
 
+Video walkthrough of this workflow:
+- https://go.screenpal.com/watch/cOn63Yn0hRr
+
+## You'll need "git" installed on your local computer 
 
 NOTE: You will need “git” installed at the command line for your operating system
 (it is installed on the all the college computers already, like Node)
