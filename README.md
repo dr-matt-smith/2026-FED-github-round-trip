@@ -111,7 +111,7 @@ Step 5 NOTE:
 12. View updated repo (with new commit) at GitHub.com
     - visit the repo URL at GitHub
     - you should see the enw files, and a new commit
-    - ![](/images/11_push_to_github.png)
+    - ![](/images/12_updated_on_github.png)
 
 
 ## Congratulations!
