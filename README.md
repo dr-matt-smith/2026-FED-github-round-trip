@@ -50,6 +50,11 @@ Summary for working at the CLI:
    - ![](/images/3_url_to_clipboard.png)
    - ![](/images/4_url_for_cloning.png)
 
+
+Step 5 NOTE: 
+  If you get an error talking about "git@github.com: Permission Denied (publickey)" when you try the next step, you can find the solution steps (and video walkthrough) to setting up and sharing an SSH key on your Windows computer here:
+  - https://github.com/dr-matt-smith/windows-github-ssh-communications-key
+
 5. On your local computer **clone** a copy of the repo
    - work in your Terminal / CLI Command console window
    - "cd" into the folder where to work (temporarily) on your GitHub project (e.g. `Downloads` or perhaps `github`)
